@@ -1,0 +1,6 @@
+app/
+host/bin/
+host/obj/
+.claude/
+*.user
+.vs/
