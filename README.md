@@ -80,3 +80,7 @@ dotnet publish host -c Release -o app
 ## 資料來源
 
 星表資料取自 [ofrohn/d3-celestial](https://github.com/ofrohn/d3-celestial) 的 `data/stars.6.json`（BSD-3-Clause 授權），原始資料為 ESA Hipparcos 星表。
+
+## 授權
+
+本專案以 [MIT 授權](LICENSE) 釋出。星表資料的原始授權條款見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
